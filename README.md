@@ -4,7 +4,7 @@
  ## DISCLAIMER:
 All dataset and reports do not represent any company,institution or country but just a dummy dataset to demostrate capabilities of powerbi
 
-## INTRODUCTIONS
+## INTRODUCTION
 Acme Electronics, a leading technology distributor, is at the forefront of the ever-evolving  electronics industry. As a trusted provider of cutting-edge products, including laptops, digital  cameras, gaming consoles, smartphones, headphones, and smart TVs, Acme Electronics serves a  wide range of wholesale customers.
 
 This project is to analyse and derive insights to answer crucial questions and help stakeholders make data driven decisions.This ia a power bi anlysis of an imaginary enterprise.
