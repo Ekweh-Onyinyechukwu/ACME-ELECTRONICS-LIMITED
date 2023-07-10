@@ -38,8 +38,7 @@ __________________|__________________
 - Total profit and much more
 
   ## VISUAUALISATION
-    
-
+    ![](acme dashboard.PNG)
 
   - Total customer purchase is 64k
   - Total item sold is 11m
