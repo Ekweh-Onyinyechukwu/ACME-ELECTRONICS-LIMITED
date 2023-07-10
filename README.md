@@ -38,7 +38,7 @@ ____________________________________
 - Total profit and much more
 
   ## VISUAUALISATION
-![](acme dashboard.PNG)
+![](ACME.PNG)
   
  - Total customer purchase is 64k
   - Total item sold is 11m
@@ -49,7 +49,8 @@ ____________________________________
   - top customer by profit is daniel cooper
   - top customer purchase by city is nairobi
 
-    
+  ## REVIEW
+  ![](good work.PNG)
   
   
   
