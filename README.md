@@ -28,7 +28,7 @@ Build a robust data model that reduces redundancy, optimizes report speed and pe
   
  Adjusted model ![](NOT.PNG) 
  Auto model![](DONE.PNG)
-__________________|__________________
+____________________________________
 
 ## ANALYSIS
   The report consists of:
@@ -38,9 +38,9 @@ __________________|__________________
 - Total profit and much more
 
   ## VISUAUALISATION
-    ![](acme dashboard.PNG)
-
-  - Total customer purchase is 64k
+![](acme dashboard.PNG)
+  
+ - Total customer purchase is 64k
   - Total item sold is 11m
   - Total revenue is $7bn
   - total profit is $2bn
