@@ -52,8 +52,3 @@ ____________________________________
   ## REVIEW
   Am intirued...
   ![](WORK.PNG)
-
-  Please review an dyour feedbacks willbe much appreciated
-  
-  
-  
