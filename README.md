@@ -39,8 +39,7 @@ ____________________________________
 
   ## VISUAUALISATION
 ![](ACME.PNG)
-  
- - Total customer purchase is 64k
+   - Total customer purchase is 64k
   - Total item sold is 11m
   - Total revenue is $7bn
   - total profit is $2bn
