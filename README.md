@@ -50,5 +50,5 @@ ____________________________________
   - top customer purchase by city is nairobi
 
   ## REVIEW:
-  Am intirued... emoji😄😃😆
+  Am intirued... 😄😃😆
   ![](WORK.PNG)
